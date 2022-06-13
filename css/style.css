@@ -25,6 +25,7 @@ h3{
     margin-top: 30px;
     display: flex;
     justify-content: center;
+   
 }
 
 .container-logo1:before,.container-logo1:after {
@@ -113,48 +114,52 @@ footer p{
     h3{
         font-family: 'Source Sans Pro', sans-serif;
         font-weight: lighter;
-        font-size: 45px;
+        font-size: 33px;
         margin-top: 5px;
+        width: 300px;
+        display: inline-block;
+       
     }
 
     .container-logo1{
         margin: auto;
         margin-bottom: 15px;
+        width: 300px;
     }
 
     .container-logo2 {
         margin: auto;
         margin-bottom: 15px;
+        width: 300px;
     }
     .card-logo{
-        width: 100px;
-        height: 100px;
+        width: 70px;
+        height: 70px;
         background-color: #01B4FF;
         margin: auto;
         display: inline-block;
         margin-left: 10px;
         margin-right: 10px;
-        border-radius: 20px; 
+        border-radius: 10px; 
         margin-top: 7px;
         box-shadow: 0px 0px 10px #01B4FF;
        
     }
 
     .logo{
-        margin-top: 40px;
+        margin-top: 27px;
         color: #141414;
     }
 
     footer{
         width: auto;
         height: 50px;
-        background-color: #01B4FF;
         margin-top: 200px;
     }
 
     footer p{
         padding-top: 15px;
-        color: #141414;
+        color: #01B4FF;
         font-family: 'Source Sans Pro', sans-serif;
         font-weight: normal;
     }
